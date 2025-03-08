@@ -1,17 +1,21 @@
-# **Popciy 👕🛍️ - POS Kekinian untuk Toko Baju Hits!**
+Berikut versi yang sudah diubah untuk toko es krim! 🍦✨  
 
-**Popciy** adalah sistem **Point of Sale (POS)** yang dirancang khusus buat toko baju kekinian! 🌟  
-Dengan tampilan modern dan fitur canggih, kamu bisa jualan baju dengan lebih **cepat, mudah, dan stylish**!  
+---
 
-## **🔥 Kenapa Harus Popciy?**
-✅ **Bikin jualan makin lancar** – Scan, klik, cetak struk, selesai! 🚀  
-✅ **Interface estetik** – Biar kasir makin betah, bos makin senang! ✨  
-✅ **Multi-user & multi-role** – Kasir, admin, owner, semua happy! 🏆  
-✅ **Laporan keuangan instan** – Cek omzet toko tanpa pusing! 📊  
+# **Popciy 🍦🍨 - POS Kekinian untuk Toko Es Krim Hits!**  
 
-## **🎯 Fitur Andalan**
-- 🏪 **Kelola Produk** – Tambah, edit, hapus stok tanpa drama.  
-- 👥 **Manajemen Pelanggan** – Catat siapa yang sering belanja.  
-- 💸 **Transaksi Cepat** – Scan barcode, hitung otomatis!  
-- 📜 **Cetak Struk Gaya** – Karena struk juga harus aesthetic~  
-- 🔒 **Keamanan Tinggi** – Hanya user yang berwenang bisa akses data penting.  
+**Popciy** adalah sistem **Point of Sale (POS)** yang dirancang khusus buat toko es krim modern! 🌟  
+Dengan tampilan yang fresh dan fitur canggih, jualan es krim jadi lebih **cepat, mudah, dan menyenangkan!** 🍨🚀  
+
+## **🔥 Kenapa Harus Popciy?**  
+✅ **Bikin jualan makin lancar** – Pilih rasa, klik, cetak struk, selesai! 🎉  
+✅ **Tampilan estetik & friendly** – Bikin kasir makin betah, pelanggan makin happy! 😊  
+✅ **Multi-user & multi-role** – Kasir, admin, owner, semua bisa pakai! 🏆  
+✅ **Laporan penjualan instan** – Cek omzet toko dalam satu klik! 📊  
+
+## **🎯 Fitur Andalan**  
+- 🍦 **Kelola Menu Es Krim** – Tambah, edit, hapus varian rasa dengan mudah.  
+- 🧍 **Manajemen Pelanggan** – Catat pelanggan setia dan beri promo spesial.  
+- 💰 **Transaksi Cepat & Akurat** – Hitung otomatis, tanpa ribet!  
+- 🖨️ **Cetak Struk Keren** – Biar pembeli senang bawa pulang!  
+- 🔒 **Keamanan Tinggi** – Hanya user berwenang yang bisa akses data penting.  
