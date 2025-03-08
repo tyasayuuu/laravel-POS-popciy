@@ -15,7 +15,6 @@ Dengan tampilan yang fresh dan fitur canggih, jualan es krim jadi lebih **cepat,
 
 ## **🎯 Fitur Andalan**  
 - 🍦 **Kelola Menu Es Krim** – Tambah, edit, hapus varian rasa dengan mudah.  
-- 🧍 **Manajemen Pelanggan** – Catat pelanggan setia dan beri promo spesial.  
 - 💰 **Transaksi Cepat & Akurat** – Hitung otomatis, tanpa ribet!  
 - 🖨️ **Cetak Struk Keren** – Biar pembeli senang bawa pulang!  
 - 🔒 **Keamanan Tinggi** – Hanya user berwenang yang bisa akses data penting.  
