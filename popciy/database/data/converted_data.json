@@ -1,0 +1,52 @@
+[
+    {
+        "id":1,
+        "name":"Cup Besar",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":2,
+        "name":"Cup Kecil",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":3,
+        "name":"Croffle",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":4,
+        "name":"Oreo",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":5,
+        "name":"Biskuit Regal",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":6,
+        "name":"Buah Stawberry",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":7,
+        "name":"Buah Mangga",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":8,
+        "name":"Buah Kiwi",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":9,
+        "name":"Croffle + Stawberry",
+        "biaya_tambahan":2000
+    },
+    {
+        "id":10,
+        "name":"Coklat",
+        "biaya_tambahan":2000
+    }
+]

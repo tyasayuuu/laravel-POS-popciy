@@ -1,0 +1,28 @@
+/* Custom CSS buat form biar lebih rapi */
+.form-select {
+    border-radius: 8px;
+    padding: 10px;
+    border: 2px solid #ddd;
+    background-color: #fff;
+    transition: all 0.3s ease-in-out;
+}
+
+.form-select:focus {
+    border-color: #007bff;
+    box-shadow: 0px 0px 10px rgba(0, 123, 255, 0.3);
+}
+
+.btn {
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+.btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
